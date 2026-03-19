@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F1117</color>
+    <color name="card_dark">#1A1D27</color>
+    <color name="accent_green">#00FFB2</color>
+    <color name="text_primary">#F0F4FF</color>
+    <color name="text_muted">#6B7280</color>
+
+    <!-- Card accent borders -->
+    <color name="incoming_accent">#00E5A0</color>
+    <color name="outgoing_accent">#3B8EFF</color>
+    <color name="missed_accent">#FF7A3D</color>
+    <color name="blocked_accent">#FF4444</color>
+</resources>
